@@ -6,4 +6,5 @@ body.onload = function() {
 	} else {
 		document.write("GitHubのエディタ高性能過ぎワロタ");
 	}
+	window.alert("アラートでーす");
 }
